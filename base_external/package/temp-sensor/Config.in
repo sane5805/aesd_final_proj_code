@@ -1,0 +1,4 @@
+config BR2_PACKAGE_TEMP_SENSOR
+	bool "temp-sensor"
+	help
+		Includes the temperature sensor code
