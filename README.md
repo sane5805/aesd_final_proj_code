@@ -1,29 +1,19 @@
-# buildroot-rpi
+# ECEN 5713 - Advanced Embedded Software Development - Final Project
+This repository contains the Buildroot environment
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
+## Project Overview:
+https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Overview
 
-We will be using rpi3
+## Project Schedule:
+https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Schedule
 
-Configuration of rpi  for Buildroot:
-----------------------------
-Other configuration of rpi:
-----------------------------
-For models A, B, A+ or B+:
+## Project Repo:
+[code repo](https://github.com/sane5805/aesd_final_proj_code)
 
-  $ make raspberrypi_defconfig
+[package code](https://github.com/sane5805/final-project-aesd-utils)
 
-For model Zero (model A+ in smaller form factor):
+## Project Demo:
+https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Demo
 
-  $ make raspberrypi0_defconfig
-
-For model 2 B:
-
-  $ make raspberrypi2_defconfig
-
-For model 3 B and B+:
-
-  $ make raspberrypi3_defconfig
-
-For model 4 B:
-
-  $ make raspberrypi4_defconfig
+## Group members
+Saurav Negi 
