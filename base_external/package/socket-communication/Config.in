@@ -1,0 +1,4 @@
+config BR2_PACKAGE_SOCKET_COMMUNICATION
+	bool "socket-communication"
+	help
+		Includes the server side code for socker communication
