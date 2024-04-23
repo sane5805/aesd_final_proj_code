@@ -6,11 +6,11 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-TEMP_SENSOR_VERSION = 47094d514789a40e014d78293a04ea0b8962524f
+TEMP_SENSOR_VERSION = 8a83a323e7e70bba147364dc9541afca8834318b
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-TEMP_SENSOR_SITE = git@github.com:sane5805/aesd_final_proj_utils.git
+TEMP_SENSOR_SITE = git@github.com:sane5805/final-project-aesd-utils.git
 TEMP_SENSOR_SITE_METHOD = git
 TEMP_SENSOR_GIT_SUBMODULES = YES
 
