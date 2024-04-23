@@ -1,1 +1,2 @@
 source "$BR2_EXTERNAL_assignment_base_PATH/package/temp-sensor/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/socket-communication/Config.in"
